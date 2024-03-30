@@ -9,6 +9,7 @@ data augmentation 기법 적용
 ### CNN model
 - kernel size : 3*3
 - number of fileters : 각 컨볼루션 레이어마다 16개 – 32개 - 64개
+- number of layers : 3
 - activation function : ReLu
 - gradient descent optimization alogrithm : adam
 - drop out layer : drop out 비율 0.2
